@@ -16,7 +16,6 @@ export default function App() {
 
 	return <div style={{ padding: "15px" }}>
 		<h1>Bem vindo, {name}!</h1>
-
 		<hr />
 		<h4>Login</h4>
 		<hr />
